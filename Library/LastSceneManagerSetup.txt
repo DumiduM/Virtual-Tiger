@@ -1,0 +1,4 @@
+sceneSetups:
+- path: E:/Kniect/Kinect1/Assets/Gestures.unity
+  isLoaded: 1
+  isActive: 1
